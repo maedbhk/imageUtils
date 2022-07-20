@@ -1,0 +1,10 @@
+seaborn
+surfplot==0.1.0
+suitPy==1.1.1
+numpy==1.21.0
+pandas==0.25.0
+joblib==1.0.1
+nibabel==3.2.1
+nilearn==0.7.0
+matplotlib==3.4.2
+scipy==1.6.3
